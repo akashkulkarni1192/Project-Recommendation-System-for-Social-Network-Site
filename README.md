@@ -14,7 +14,7 @@ Emphasizes on chat system where the list of friends of the user is intelligently
   * Comments on posts : Total comments that the user has commented on friend's post or has been commented on his/her posts by his/her friends
   * Likes count : Total number of times that the user has liked a friend's post or his/her friends have liked the user's posts
   Above factors are given weights in decreasing order for their contribution to closeness factor. 
-* **Prediction of mood using NLP :**To determine the emotion of the user at a given point of time, we devised a metric called mood factor
+* **Prediction of mood using NLP :** To determine the emotion of the user at a given point of time, we devised a metric called mood factor
 
 #### Technologies used ####
 Database - MongoDB
