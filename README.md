@@ -1,11 +1,14 @@
-# Project-Recommendation-System-for-Social-Network-Site
+Project-Recommendation-System-for-Social-Network-Site
+=====================================================
 
-#### Goal ####
+Goal
+----
 Emphasizes on chat system on a social network platform like facebook where the list of friends of the user is intelligently displayed based on two criteria
 * suggestion of only friends close to user
 * suggestion of friends based on the mood of the user
 
-#### Implementation ####
+Implementation
+--------------
 * **Formulation of Closeness factor :** To determine which friends shared a closer bond with the user on the social network platform, we devised a metric called closeness factor. This factor was calculated based on following parameters
   * Tags on user's status : If the user tags any of his/her friends on his/her statuses
   * Tags on user's post : If the user tags any of his/her friends on his/her posts
@@ -19,7 +22,8 @@ Emphasizes on chat system on a social network platform like facebook where the l
   * user's message : If the user is currently typing a message to his/her friend
   * user's comment : If the user is currently commenting on someone's post
 
-#### Technologies used ####
+Technologies used
+-----------------
 Database - MongoDB
 Backend - Java
 Frontend - HTML, CSS
